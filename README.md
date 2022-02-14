@@ -23,4 +23,6 @@ Generate a set of 2,000 random latitudes and longitudes, perform an API call wit
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
 
+<img src="Vacation_Search/WeatherPy_vacation_map.png" width="80%" height="80%">
+
 ### Deliverable 3: Create a Travel Itinerary Map
