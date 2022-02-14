@@ -19,7 +19,7 @@ Generate a set of 2,000 random latitudes and longitudes, perform an API call wit
 - Wind speed
 - Weather description
 
-<img src="Resources/fig1.png" width="80%" height="80%">
+<img src="Weather_Database/Fig1.png" width="80%" height="80%">
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
 
